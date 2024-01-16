@@ -1,0 +1,15 @@
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.AssemblyInfoInputs.cache
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.AssemblyInfo.cs
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.csproj.CoreCompileInputs.cache
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\ukol_autoskola.exe
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\questions.data
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\ukol_autoskola.deps.json
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\ukol_autoskola.runtimeconfig.json
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\ukol_autoskola.dll
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\bin\Debug\net6.0\ukol_autoskola.pdb
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.dll
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\refint\ukol_autoskola.dll
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.pdb
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ukol_autoskola.genruntimeconfig.cache
+C:\Users\hvujt\source\repos\ukol_autoskola\ukol_autoskola\obj\Debug\net6.0\ref\ukol_autoskola.dll
