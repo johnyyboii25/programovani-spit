@@ -1,0 +1,15 @@
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.GeneratedMSBuildEditorConfig.editorconfig
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.AssemblyInfoInputs.cache
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.AssemblyInfo.cs
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.csproj.CoreCompileInputs.cache
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\ukolautoskola.exe
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\ukolautoskola.deps.json
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\ukolautoskola.runtimeconfig.json
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\ukolautoskola.dll
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\ukolautoskola.pdb
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.dll
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\refint\ukolautoskola.dll
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.pdb
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ukolautoskola.genruntimeconfig.cache
+U:\projekt ptror\ukolautoskola\ukolautoskola\obj\Debug\net6.0\ref\ukolautoskola.dll
+U:\projekt ptror\ukolautoskola\ukolautoskola\bin\Debug\net6.0\questions.data
