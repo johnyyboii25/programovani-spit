@@ -32,7 +32,6 @@ foreach (string question in questions)
 {
 	string[] questionParts = question.Split('|');
 	string questionText = questionParts[0];
-	string[] answerOptions = new string[] { questionParts[2], questionParts[3], questionParts[4] };
 	string[] answerOptions2 = new string[] { "A", "B", "C" };
 
 	Console.WriteLine(questionText);
@@ -40,7 +39,7 @@ foreach (string question in questions)
 	
 	Console.WriteLine($"A) {questionParts[2]}");
 	Console.WriteLine($"B) {questionParts[3]}");
-	if (questionParts.Length > 3)
+	if (questionParts.Length > 4)
 	{
 		Console.WriteLine($"C) {questionParts[4]}");
 	}
@@ -106,6 +105,8 @@ string promptUserForAnswer()
 void calculatePercentage()
 {
 	Console.WriteLine("End of quiz");
-	Console.WriteLine($"Correct answers: {correctAnswers} out of {questions.Length}");
-	Console.WriteLine($"Your percentage: {correctAnswers / questions.Length * 100}%");
+	int totalquestions = correctAnswers + incorrectAnswers;
+	double percentage = (double)correctAnswers / totalquestions;
+	Console.WriteLine($"Correct answers: {correctAnswers} out of {totalquestions}");
+	Console.WriteLine($"Your percentage: {(percentage)* 100}%");
 }
