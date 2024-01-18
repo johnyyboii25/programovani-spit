@@ -1,4 +1,4 @@
-﻿
+
 string[] questions = File.ReadAllLines("questions.data");
 
 
@@ -22,7 +22,7 @@ static string[] shuffleQuestions(string[] questions)
 
 questions = shuffleQuestions(questions);
 
-Console.WriteLine("Welcome to the driving school quiz, type \"exit\" to quit");
+Console.WriteLine("Welcome to the driving school quiz, type \"q\" to quit");
 Console.WriteLine();
 
 int correctAnswers = 0;
@@ -33,18 +33,24 @@ foreach (string question in questions)
 	string[] questionParts = question.Split('|');
 	string questionText = questionParts[0];
 	string[] answerOptions = new string[] { questionParts[2], questionParts[3], questionParts[4] };
+	string[] answerOptions2 = new string[] { "A", "B", "C" };
 
 	Console.WriteLine(questionText);
 
-	foreach (string answerOption in answerOptions)
+	
+	Console.WriteLine($"A) {questionParts[2]}");
+	Console.WriteLine($"B) {questionParts[3]}");
+	if (questionParts.Length > 3)
 	{
-		Console.WriteLine($"A) {answerOption}");
+		Console.WriteLine($"C) {questionParts[4]}");
 	}
-	string userAnswer = "A";
-	while (!answerOptions.Contains(userAnswer))
+
+
+	string userAnswer = "";
+	while (!answerOptions2.Contains(userAnswer))
 	{
 		userAnswer = promptUserForAnswer();
-		if (!answerOptions.Contains(userAnswer))
+		if (!answerOptions2.Contains(userAnswer))
 		{
 			Console.WriteLine("Invalid input");
 		}
@@ -88,7 +94,7 @@ calculatePercentage();
 string promptUserForAnswer()
 {
 	string answer = Console.ReadLine().Trim().ToUpper();
-	if (answer == "EXIT")
+	if (answer == "Q")
 	{
 		calculatePercentage();
 		Environment.Exit(0);
