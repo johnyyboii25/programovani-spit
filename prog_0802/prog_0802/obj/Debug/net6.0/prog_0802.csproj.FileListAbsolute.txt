@@ -1,0 +1,14 @@
+U:\projekt ptror\prog_0802\prog_0802\bin\Debug\net6.0\prog_0802.exe
+U:\projekt ptror\prog_0802\prog_0802\bin\Debug\net6.0\prog_0802.deps.json
+U:\projekt ptror\prog_0802\prog_0802\bin\Debug\net6.0\prog_0802.runtimeconfig.json
+U:\projekt ptror\prog_0802\prog_0802\bin\Debug\net6.0\prog_0802.dll
+U:\projekt ptror\prog_0802\prog_0802\bin\Debug\net6.0\prog_0802.pdb
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.GeneratedMSBuildEditorConfig.editorconfig
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.AssemblyInfoInputs.cache
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.AssemblyInfo.cs
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.csproj.CoreCompileInputs.cache
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.dll
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\refint\prog_0802.dll
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.pdb
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\prog_0802.genruntimeconfig.cache
+U:\projekt ptror\prog_0802\prog_0802\obj\Debug\net6.0\ref\prog_0802.dll
